@@ -5,4 +5,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #eosphorosai/dbgpt
 
-savatar101/omniparse
+savatar101/omniparse:last
