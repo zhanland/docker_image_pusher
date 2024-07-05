@@ -3,6 +3,11 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-#eosphorosai/dbgpt
+# 已经下载
+#eosphorosai/dbgpt 
+#下载失败
+# savatar101/omniparse:last 下载失败
 
-savatar101/omniparse:last
+chromadb/chroma:0.5.3
+mysql:8.0
+supersonicbi/supersonic:${SUPERSONIC_VERSION:-latest}
