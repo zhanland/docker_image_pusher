@@ -7,7 +7,7 @@
 #eosphorosai/dbgpt 
 #下载失败
 # savatar101/omniparse:last 下载失败
-
-chromadb/chroma:0.5.3
-mysql:8.0
-supersonicbi/supersonic:${SUPERSONIC_VERSION:-latest}
+# 已经下载
+#chromadb/chroma:0.5.3
+#mysql:8.0
+supersonicbi/supersonic
