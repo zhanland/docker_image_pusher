@@ -11,4 +11,4 @@
 #chromadb/chroma:0.5.3
 #mysql:8.0
 #supersonicbi/supersonic
-swr.cn-north-4.myhuaweicloud.com/infiniflow/ragflow:last
+swr.cn-north-4.myhuaweicloud.com/infiniflow/ragflow:latest
